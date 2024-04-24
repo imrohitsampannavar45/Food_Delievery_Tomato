@@ -45,7 +45,7 @@ This project is a food delivery website with features such as user authenticatio
 2. Install dependencies:
 
    ```bash
-   cd food-delivery-website
+   cd Food_Delievery_Tomato
    cd frontend && npm install
    cd ../backend && npm install
    cd ../admin && npm install
