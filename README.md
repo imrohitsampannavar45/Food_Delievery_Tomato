@@ -11,7 +11,7 @@ This project is a food delivery website with features such as user authenticatio
 ## Features Implemented
 
 1. **Frontend Development**
-   - Created a responsive food delivery website using HTML, CSS, and JavaScript.
+   - Created a responsive food delivery website using ReactJs Nodejs HTML,CSS, and JavaScript.
    - Implemented a sign-in/sign-up component for user authentication.
    - Developed pages for the shopping cart, order placement, and user order history.
 
